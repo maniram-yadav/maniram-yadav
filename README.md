@@ -1,9 +1,9 @@
-***"If you are looking for a developer who only understands one way of thinking about code, I am not the right one for you. But if you're looking for someone who can bring perspectives from Java's structure, Go's simplicity, Rust's safety, and JavaScript's flexibility, then you will never regret the solutions I'll build for you."***
+***"If you are looking for a developer who only understands one way of thinking about code, I am not the right one for you. But if you're looking for someone who can bring perspectives from Java's structure, Go's simplicity, Rust's safety, Python data analysis and JavaScript's flexibility, then you will never regret the solutions I'll build for you."***
 
 -------------------------------------------------------------------------------------------------
-# Polyglot Software Developer - Java, Go, Rust, Javascript, TypeScript, React & Spring Boot 
+# Polyglot Software Developer - Java, Go, Python, Rust, Javascript, TypeScript, | Spring Boot & React
 
-Results-driven Polyglot Software Developer with expertise in multiple programming languages and frameworks, including **Java, Go (Golang), Rust, Javascript, TypeScript, Spring Boot, and React**. Passionate about building scalable, high-performance applications across diverse tech stacks. Adept at selecting the right language and tools for optimal system design, performance, and maintainability.
+Results-driven Polyglot Software Developer with expertise in multiple programming languages and frameworks, including **Java, Go (Golang), Rust, Python, Javascript, TypeScript, Spring Boot, and React**. Passionate about building scalable, high-performance applications across diverse tech stacks. Adept at selecting the right language and tools for optimal system design, performance, and maintainability.
 
 ```
  I am not a one-language specialist and also I am not an expert.
